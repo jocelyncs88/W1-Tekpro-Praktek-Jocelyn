@@ -1,4 +1,4 @@
-class ConvertDataType {
+class TypeCasting1 {
 	static short methodOne(long l) {
 		int i = (int) l; return (short)i;
 	}
