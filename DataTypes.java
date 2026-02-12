@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TipeBilBul {
+public class DataTypes {
 	public static void main(String[] args) { 
 		Scanner input = new Scanner(System.in); //objek untuk membaca input user
 		int T = input.nextInt(); //mengambil input beripe int
