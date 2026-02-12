@@ -1,4 +1,4 @@
-class ConvertDataType2 {
+class TypeCasting2 {
     static short methodOne(long l) {
         int i = (int) l;  
         return (short)i; //3. Terjadi overflow karena bilangan 103924 tidak cukup pada tipe data short, sistem akan mengambil 16 bit terakhir.
